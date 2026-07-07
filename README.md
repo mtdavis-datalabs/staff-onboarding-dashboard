@@ -8,6 +8,7 @@ This Excel dashboard tracks task progress across the staff onboarding process, g
 - **Owner Completion Stats** - Tracks completion rate for each internal employee responsible for onboarding tasks (Line Manager, IT, HR), and shows how many of their assigned tasks have been completed versus outstanding. This highlights which role or team might be causing delays in a new hire's onboarding.
 - **% Tasks Complete by Owner** — A bar chart comparing completion percentage across task owners, making bottlenecks easy to spot.
 - **Staff Onboarding Timeline** — A Gantt-style chart mapping each onboarding task (e.g., setting up system logins, scheduling inductions, issuing employee ID) against a day-number timeline, showing planned duration and sequencing.
+
 **Skills demonstrated:** dashboard design, data aggregation with formulas (COUNTIF/SUMIF-style summary stats), chart selection for different data stories (donut for status proportions, bar for owner comparison, Gantt for timeline/sequencing), and structuring a spreadsheet for stakeholder readability.
 
 
