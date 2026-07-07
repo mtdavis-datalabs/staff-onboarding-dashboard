@@ -3,7 +3,7 @@
 
 ## **Overview:**
 
-_This Excel dashboard tracks task progress across the staff onboarding process, giving managers a quick visualisation of who's responsible for what onboarding tasks and how mich they've progressed_
+_This Excel dashboard tracks task progress across the staff onboarding process, giving managers a quick visualisation of who's responsible for what onboarding tasks and how much they've progressed_
 
 
 ## **Key Features:** 
