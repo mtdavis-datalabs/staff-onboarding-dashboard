@@ -34,4 +34,4 @@ _This Excel dashboard tracks task progress across the staff onboarding process, 
 <img width="1504" height="816" alt="Image" src="https://github.com/user-attachments/assets/a43bad40-0de9-4fea-97f2-1597c9a3b97f" />
 
 
-_Note on data:_ Figures shown have been fictionilised for portfolio purposes; the structure reflects a real onboarding tracking workflow.
+_Note on data:_ Figures shown have been fictionalised for portfolio purposes; the structure reflects a real onboarding tracking workflow.
