@@ -1,4 +1,4 @@
 # staff-onboarding-dashboard
 Staff Onboarding Tracker &amp; Dashboard in Excel
 
-<img width="1607" height="835" alt="Image" src="https://github.com/user-attachments/assets/1d40e491-59b8-4005-a981-7f6dca3927ba" />
+<img width="1504" height="816" alt="Image" src="https://github.com/user-attachments/assets/a43bad40-0de9-4fea-97f2-1597c9a3b97f" />
