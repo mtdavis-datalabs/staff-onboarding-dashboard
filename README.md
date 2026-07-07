@@ -1,6 +1,7 @@
 # staff-onboarding-dashboard
 **Staff Onboarding Tracker &amp; Dashboard in Excel**
 This Excel dashboard tracks task progress across the staff onboarding process, giving managers a quick visualisation of who's responsible for what onboarding tasks and how mich they've progressed.
+
 **Key features:** 
 - **Summary Stats** - Live counts of tasks by status (Not Started, In Progress, Complete, Overdue), plus total task count, overall % complete, and tasks flagged "at risk."
 - **Task Status Breakdown** - Doughnut chart visualising the proportion of tasks in each status category at a glance.
@@ -8,6 +9,7 @@ This Excel dashboard tracks task progress across the staff onboarding process, g
 - **% Tasks Complete by Owner** — A bar chart comparing completion percentage across task owners, making bottlenecks easy to spot.
 - **Staff Onboarding Timeline** — A Gantt-style chart mapping each onboarding task (e.g., setting up system logins, scheduling inductions, issuing employee ID) against a day-number timeline, showing planned duration and sequencing.
 **Skills demonstrated:** dashboard design, data aggregation with formulas (COUNTIF/SUMIF-style summary stats), chart selection for different data stories (donut for status proportions, bar for owner comparison, Gantt for timeline/sequencing), and structuring a spreadsheet for stakeholder readability.
+
 
 <img width="1504" height="816" alt="Image" src="https://github.com/user-attachments/assets/a43bad40-0de9-4fea-97f2-1597c9a3b97f" />
 
