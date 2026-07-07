@@ -1,7 +1,8 @@
 # staff-onboarding-dashboard
 **Staff Onboarding Tracker &amp; Dashboard in Excel**
 
-Overview: 
+**Overview:**
+
 _This Excel dashboard tracks task progress across the staff onboarding process, giving managers a quick visualisation of who's responsible for what onboarding tasks and how mich they've progressed_
 
 **Key Features:** 
