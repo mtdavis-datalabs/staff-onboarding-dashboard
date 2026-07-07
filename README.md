@@ -24,7 +24,7 @@ _This Excel dashboard tracks task progress across the staff onboarding process, 
   ## Files
 - [`Staff_Onboarding_Dashboard.xlsx`](Staff_Onboarding_Dashboard.xlsx) — the full interactive dashboard with formulas and charts
 - `Onboarding_Dashboard_Screenshot.png` — static preview of the dashboard (shown below)
-- 
+  
 <img width="1504" height="816" alt="Image" src="https://github.com/user-attachments/assets/a43bad40-0de9-4fea-97f2-1597c9a3b97f" />
 
 _Note on data:_ Figures shown have been fictionilised for portfolio purposes; the structure reflects a real onboarding tracking workflow.
